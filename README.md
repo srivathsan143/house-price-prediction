@@ -1,4 +1,4 @@
-# house-price-prediction
+# House Price Prediction
 
 ## Problem
 Predict house prices using Machine Learning.
